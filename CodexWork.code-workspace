@@ -5,6 +5,14 @@
     }
   ],
   "settings": {
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "terminal.integrated.enablePersistentSessions": true,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
     "files.exclude": {
       "**/.git": true,
       "**/.DS_Store": true
